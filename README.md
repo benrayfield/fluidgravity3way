@@ -1,2 +1,4 @@
 # fluidgravity3way
+ I did not yet unzip it (next time) because its disorganized code but simulation shows it with random start and basic comments and code are in unzip the 2 jar files else doubleclick to run as usual for my jars.
+
 Realtime hydrogen electron cloud and less often falls into other known clouds. Simulation of what I recognize as part of n dimensional fluid gravity while the math was not primarily for that and only led me back to this little simulation I built few years ago and forgot about until now that the 3way math combined with some different vector math explained in download, is the same math as in a kind of neuralnet thats normally 2 nodes at a time but you can do And/Nand of 3 at a time to avoid early observation. Also at http://sourceforge.net/projects/fluidgravity3way
